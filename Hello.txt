@@ -1,7 +1,0 @@
-Hello Git!!!2222222
-Hello Git!!!hotfix
-Hello Git!!!
-Hello Git!!!
-Hello Git!!!
-Hello Git!!!master
-Hello Git!!!hot-fix
